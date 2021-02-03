@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "730449859394",
+    "firebase_url": "https://mov-nym-default-rtdb.firebaseio.com",
+    "project_id": "mov-nym",
+    "storage_bucket": "mov-nym.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730449859394:android:3fba286d37100fc3302edb",
+        "android_client_info": {
+          "package_name": "com.nym.mov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730449859394-fbtm64evpncfrv9jotf419uqe3q36d0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxBGSXgNbpPIuHrqHMiBTazD7Yf16hQe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730449859394-fbtm64evpncfrv9jotf419uqe3q36d0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
